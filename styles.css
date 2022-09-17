@@ -2,5 +2,12 @@
 
 * {
     font-family: Helvetica, Arial, sans-serif;
+    background-color:rgb(233, 229, 199);
+}
+
+img {
+    height: 400px;
+    width: 600px;
+    object-fit: cover;
 }
 
